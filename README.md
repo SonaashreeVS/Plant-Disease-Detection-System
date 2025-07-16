@@ -24,6 +24,11 @@ Plant-Disease-Detection-System
 *Datasets:*
     1. Test Dataset
     https://www.kaggle.com/datasets/sonsas/plant-diseases-test
+
+
+
+
+    
     2. Training and Validity Dataset 
     https://www.kaggle.com/datasets/sonsas/plantdiseases
     
