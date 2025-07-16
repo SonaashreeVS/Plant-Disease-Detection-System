@@ -1,5 +1,5 @@
 Plant-Disease-Detection-System
-# An AI Model build using Machine Learning algorithms and Computer vision providing accuracy of 96% (approx.), easily accessed using an interactive web-based application built on Streamlit.
+# An AI Model build using Machine Learning algorithms and Computer vision providing accuracy of 96% (approx.), easily accessed using an interactive web-based application built on Streamlit. (Check the dataset given below)
 
 🪴This model was developed to detect various plant diseases accurately so that necessary treatments can be provided timely. Detecting these diseases promotes sustainable agriculture as appropriate treatments can decrease the use of harmful pesticides leading to decrease in food insecurity and increased yield percentage. 
 
@@ -20,6 +20,15 @@ Plant-Disease-Detection-System
 🪴Web-based interactive application deployed using Streamlit for simple yet efficient use by the users (Users= Farmers,Agriculturalists etc...) 
 
 🪴Real Time disease detection with less data utilization increasing the user interaction from rural areas with less internet connectivity.
+
+*Datasets:*
+    1. Test Dataset
+    https://www.kaggle.com/datasets/sonsas/plant-diseases-test
+    2. Training and Validity Dataset 
+    https://www.kaggle.com/datasets/sonsas/plantdiseases
+    
+    
+
 
 🪴Happy Planting :) 
 ‎
